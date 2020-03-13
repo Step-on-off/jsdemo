@@ -26,6 +26,5 @@ appData.expenses[i2name] = i2amount;
 alert(appData.budget / 30);
 
 
-//console.log(appData.budget);
-//console.log(appData.timeData);
+
 
